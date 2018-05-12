@@ -21,11 +21,11 @@ contributor:
     - Manley, Mary de la Riviere
     - Manley, Mary de la Rivière
     birthdate: 1663
-    deathdate: &id001 1724
+    deathdate: 1724
     gutenberg_agent_id: '5930'
     url: http://www.gutenberg.org/2009/agents/5930
   - agent_name: Derrick, Samuel
-    birthdate: *id001
+    birthdate: 1724
     deathdate: 1769
     gutenberg_agent_id: '5927'
     url: http://www.gutenberg.org/2009/agents/5927
@@ -52,6 +52,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Augustan Reprint Society, publication number 32
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14525#Prefaces-to-Fiction
 gutenberg_issued: '2004-12-30'
 gutenberg_type: Text
 identifiers:
