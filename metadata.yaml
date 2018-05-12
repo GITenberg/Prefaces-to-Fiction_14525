@@ -1,0 +1,72 @@
+_repo: Prefaces-to-Fiction_14525
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Boyce, Benjamin
+    birthdate: 1903
+    deathdate: 1997
+    gutenberg_agent_id: '39451'
+    url: http://www.gutenberg.org/2009/agents/39451
+  contributors:
+  - agent_name: Warburton, William
+    alias: William, Lord Bishop of Glocester
+    birthdate: 1698
+    deathdate: 1779
+    gutenberg_agent_id: '5928'
+    url: http://www.gutenberg.org/2009/agents/5928
+    wikipedia: http://en.wikipedia.org/wiki/William_Warburton
+  - agent_name: Manley, Mrs. (Mary de la Rivière)
+    aliases:
+    - Manley, Delariviere
+    - Manley, Mary de la Riviere
+    - Manley, Mary de la Rivière
+    birthdate: 1663
+    deathdate: &id001 1724
+    gutenberg_agent_id: '5930'
+    url: http://www.gutenberg.org/2009/agents/5930
+  - agent_name: Derrick, Samuel
+    birthdate: *id001
+    deathdate: 1769
+    gutenberg_agent_id: '5927'
+    url: http://www.gutenberg.org/2009/agents/5927
+  - agent_name: Argens, Jean-Baptiste de Boyer, marquis d'
+    aliases:
+    - D'Argens, Jean-Baptiste de Boyer, marquis
+    - Dargens, Jean-Baptiste de Boyer, marquis
+    - Boyer, Jean-Baptiste de (Marquis d'Argens)
+    birthdate: 1704
+    deathdate: 1771
+    gutenberg_agent_id: '5929'
+    url: http://www.gutenberg.org/2009/agents/5929
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste_de_Boyer%2C_Marquis_d%27Argens
+  - agent_name: Scudéry, M. de (Georges)
+    aliases:
+    - De Scudéry, M. (Georges)
+    - Scudéry, Georges de
+    - Scudery, M. de (Georges)
+    birthdate: 1601
+    deathdate: 1667
+    gutenberg_agent_id: '5931'
+    url: http://www.gutenberg.org/2009/agents/5931
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Augustan Reprint Society, publication number 32
+gutenberg_issued: '2004-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction -- Technique'
+tableOfContents: "de Scudéry, Preface to Ibrahim (1674)\r\nManley, Preface to The\
+  \ Secret History of Queen Zarah (1705)\r\nde Boyer, Marquis d'Argens, Preface to\
+  \ The Jewish Spy (1744)\r\nWarburton, Preface to Richardson's Clarissa Vol. III\
+  \ and IV (1748)\r\nDerrick, Preface to d'Argens's Memoirs of The Count Du Beauval\
+  \ (1754)."
+title: Prefaces to Fiction
+url: http://www.gutenberg.org/ebooks/14525
